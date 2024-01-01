@@ -1,0 +1,1 @@
+# check-if-a-given-number-is-divisible-by-both-3-6
